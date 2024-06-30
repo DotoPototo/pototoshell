@@ -52,6 +52,7 @@ format = '[[ $symbol ($version) ](fg:#99a3c4 bg:#212736)]($style)'
 symbol = ""
 style = "bg:#212736"
 format = '[[ $symbol ($version) ](fg:#99a3c4 bg:#212736)]($style)'
+detect_files = ['package.json', '.node-version', '!bunfig.toml', '!bun.lockb']
 
 [rust]
 symbol = ""
