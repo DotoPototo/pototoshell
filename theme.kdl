@@ -1,0 +1,15 @@
+themes {
+    doto {
+        fg "#99a3c4"
+        bg "#394260"
+        black "#1c2028"
+        red "#7c2526"
+        green "#7ca359"
+        yellow "#EBCB8B"
+        blue "#81A1C1"
+        magenta "#B48EAD"
+        cyan "#88C0D0"
+        white "#E5E9F0"
+        orange "#c95a38"
+    }
+}
